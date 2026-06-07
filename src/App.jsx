@@ -848,23 +848,23 @@ function PricingPage({heroOp}){
 
 const PFEATURED=[
   {src:PF0,label:"Pagani Huayra Utopia",sub:"Nashville, TN",cat:"FULL SHOT"},
-  {src:PF1,label:"Lamborghini Huracán Performante",sub:"Car Meet Nashville",cat:"FULL SHOT"},
+  {src:PG6,label:"Lamborghini Gallardo",sub:"Windsheild Decal",cat:"DETAIL"},
   {src:PF2,label:"McLaren 720S",sub:"Car Meet Nashville",cat:"FULL SHOT"},
   {src:PF3,label:"Porsche 911 GT2 RS",sub:"Car Meet Nashville",cat:"FULL SHOT"},
-  {src:PF4,label:"Lamborghini Huracan",sub:"Detail",cat:"DETAIL"},
+  {src:PG13,label:"Porsche GT3 RS",sub:"Side Profile",cat:"FULL SHOT"},
   {src:PF5,label:"Lamborghini Nashville",sub:"Detail",cat:"DETAIL"},
 ];
 const PGRID=[
-  {src:PG0,label:"Behind the Lens",sub:"On Set",cat:"FULL SHOT"},
+  {src:PG0,label:"Lamborghini",sub:"Little Brother In Lambo",cat:"FULL SHOT"},
   {src:PG1,label:"Pagani Interior",sub:"Pagani Huayra",cat:"INTERIOR"},
   {src:PG3,label:"Ferrari &amp; Lamborghini Lineup",sub:"Car Meet Nashville",cat:"FULL SHOT"},
   {src:PG5,label:"Pagani Raduno",sub:"Carbon Detail",cat:"DETAIL"},
-  {src:PG6,label:"Lamborghini Nashville",sub:"Exhaust Detail",cat:"DETAIL"},
-  {src:PG7,label:"Lamborghini Wheel",sub:"Bronze Forged",cat:"DETAIL"},
+  {src:PG6,label:"Lamborghini Gallardo",sub:"Windsheild Decal",cat:"DETAIL"},
+  {src:PG7,label:"Lamborghini Gallardo",sub:"Front Shot",cat:"DETAIL"},
   {src:PG8,label:"Lamborghini Revuelto",sub:"Engine Bay",cat:"FULL SHOT"},
-  {src:PG9,label:"Lamborghini Interior",sub:"Steering Detail",cat:"INTERIOR"},
+  {src:PG9,label:"Lamborghini Aventador",sub:"Wheel Detail",cat:"INTERIOR"},
   {src:PG10,label:"Lamborghini Aventador",sub:"Interior",cat:"INTERIOR"},
-  {src:PG11,label:"Huracán Performante",sub:"Side Profile",cat:"FULL SHOT"},
+  {src:PG11,label:"911 GT2RS",sub:"Back Shot",cat:"FULL SHOT"},
   {src:PG12,label:"Gallardo Lineup",sub:"Car Meet Nashville",cat:"FULL SHOT"},
   {src:PG13,label:"Porsche GT3 RS",sub:"Side Profile",cat:"FULL SHOT"},
 ];
