@@ -847,25 +847,25 @@ function PricingPage({heroOp}){
 }
 
 const PFEATURED=[
-  {src:PF0,label:"Pagani Huayra Utopia",sub:"Nashville, TN",cat:"FULL SHOT"},
+  {src:PF0,label:"Pagani Huayra Utopia",sub:"3/4 Shot",cat:"FULL SHOT"},
   {src:PG6,label:"Lamborghini Gallardo",sub:"Windsheild Decal",cat:"DETAIL"},
-  {src:PF2,label:"McLaren 720S",sub:"Car Meet Nashville",cat:"FULL SHOT"},
-  {src:PF3,label:"Porsche 911 GT2 RS",sub:"Car Meet Nashville",cat:"FULL SHOT"},
+  {src:PF2,label:"Pagani Rear",sub:"Rear 3/4 Shot",cat:"FULL SHOT"},
+  {src:PF3,label:"Mclaren",sub:"Head Shot",cat:"FULL SHOT"},
   {src:PG13,label:"Porsche GT3 RS",sub:"Side Profile",cat:"FULL SHOT"},
   {src:PF5,label:"Lamborghini Nashville",sub:"Detail",cat:"DETAIL"},
 ];
 const PGRID=[
-  {src:PG0,label:"Lamborghini",sub:"Little Brother In Lambo",cat:"FULL SHOT"},
+  {src:PG0,label:"Lamborghini",sub:"Little Brother In Lambo",cat:"INTERIOR"},
   {src:PG1,label:"Pagani Interior",sub:"Pagani Huayra",cat:"INTERIOR"},
-  {src:PG3,label:"Ferrari &amp; Lamborghini Lineup",sub:"Car Meet Nashville",cat:"FULL SHOT"},
+  {src:PG3,label:"Ferrari & Lamborghini Lineup",sub:"Lineup Shot",cat:"FULL SHOT"},
   {src:PG5,label:"Pagani Raduno",sub:"Carbon Detail",cat:"DETAIL"},
   {src:PG6,label:"Lamborghini Gallardo",sub:"Windsheild Decal",cat:"DETAIL"},
-  {src:PG7,label:"Lamborghini Gallardo",sub:"Front Shot",cat:"DETAIL"},
-  {src:PG8,label:"Lamborghini Revuelto",sub:"Engine Bay",cat:"FULL SHOT"},
-  {src:PG9,label:"Lamborghini Aventador",sub:"Wheel Detail",cat:"INTERIOR"},
+  {src:PG7,label:"Lamborghini Gallardo",sub:"Front Shot",cat:"FULL SHOT"},
+  {src:PG8,label:"Lamborghini Revuelto",sub:"Engine Bay",cat:"DETAIL"},
+  {src:PG9,label:"Lamborghini Aventador",sub:"Wheel Detail",cat:"DETAIL"},
   {src:PG10,label:"Lamborghini Aventador",sub:"Interior",cat:"INTERIOR"},
   {src:PG11,label:"911 GT2RS",sub:"Back Shot",cat:"FULL SHOT"},
-  {src:PG12,label:"Gallardo Lineup",sub:"Car Meet Nashville",cat:"FULL SHOT"},
+  {src:PG12,label:"Gallardo Lineup",sub:"Lineup Shot",cat:"FULL SHOT"},
   {src:PG13,label:"Porsche GT3 RS",sub:"Side Profile",cat:"FULL SHOT"},
 ];
 function PortCard({src,label,sub,featured=false,setLb}){
